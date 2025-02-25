@@ -1,4 +1,4 @@
-bilibili for tablet 隐私协议
+mikufans 隐私协议
 
 本应用是哔哩哔哩弹幕网站的第三方客户端
 
